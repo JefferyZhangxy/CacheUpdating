@@ -1,0 +1,14 @@
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\bin\Debug\CacheBuilder.exe.config
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\bin\Debug\CacheBuilder.exe
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\bin\Debug\CacheBuilder.pdb
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\bin\Debug\SuperMap.Data.dll
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\bin\Debug\SuperMap.Data.xml
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\bin\Debug\zh-CN\SuperMap.Data.resources.dll
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\obj\Debug\CacheBuilder.csprojAssemblyReference.cache
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\obj\Debug\CacheBuilder.Form1.resources
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\obj\Debug\CacheBuilder.Properties.Resources.resources
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\obj\Debug\CacheBuilder.csproj.GenerateResource.cache
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\obj\Debug\CacheBuilder.csproj.CoreCompileInputs.cache
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\obj\Debug\CacheBuilder.csproj.CopyComplete
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\obj\Debug\CacheBuilder.exe
+C:\Users\10545\Desktop\缓存更新插件\CacheBuilder\CacheBuilder\obj\Debug\CacheBuilder.pdb
